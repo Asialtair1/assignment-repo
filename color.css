@@ -1,0 +1,132 @@
+.banner{
+   background-image: url("/images/banner/banner2.png");
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 1600px;
+   height: 809px;
+   margin-top: -65px;
+}
+body{
+    margin: 0%;
+}
+.text{
+    text-align:right ;
+}
+.title{
+    padding: 215px 230px 24px 845px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+}
+.description{
+    padding: 0px 230px 32px 876px;
+    font-weight: 400;
+    font-size: 16px;
+   
+}
+.contact-us{
+    text-align: right;
+    background-color: orange;
+    color: white;
+    width: 160px;
+    height: 64px;
+    padding: 18px 18px;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 0px 230px 167px 1210px;
+    border: 0px;
+    border-radius:10px;
+}
+.scound-part{
+    display: flex;
+    margin-top: 146px;
+    gap: 80px;
+    margin-left:206px ;
+}
+.text-unit{
+    margin:385px 322px 198px 0px ;    
+}
+.container{
+    display: flex;
+    margin: 114px 229px 124px 230px;
+    gap: 86px;
+}
+.third-title{
+    text-align: center;
+}
+.aling{
+   text-align: center;
+}
+.mindset{
+    background-image: url('/images/watch.png'),url('/images/gradient2.png');
+    margin: 124px 230px 130px 230px ;
+    width: 1140px;
+    height: 300px;
+}
+.mindup{
+    padding: 59px 617px 59px 64px;
+    font-weight: 700;
+    font-size: 40px;
+    color:#F15B22;
+}
+.call-now{
+    margin: 10px 916px 59px 64px;
+    background-color: white;
+    color: #F15B22;
+    padding: 21px 36px 20ox 36px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.last-title{
+    background-color: black;
+    width: 1600px;
+    height: 577px;
+    color: #F3F3F3;
+ }
+.black-screen{
+    background-color: black;
+    width: 1600px;
+    height: 577px; 
+    display: flex;   
+} 
+
+.info{
+    display: flex;
+    gap: 300px;
+}
+.last-unit{
+    text-align: left;
+    font-weight: 400;
+    font-size: 16px;
+}
+.button{
+    padding: 130px 230px 243px 0px;
+}
+.social{
+    padding: 130px 0 130px 230px;
+}
+input{
+    width: 325px;
+    height: 64px;
+    margin-bottom:16px;
+    color: #F3F3F3;
+    text-align: center;
+}
+.subscribe{
+    width: 170.11px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+  
+}
+.future{
+    color: #FFFFFF;
+}
+.subscribe-button{
+    color: #F15B22;
+    width: 170px;
+    height: 64px;
+}
+.pic{
+    height: 30px;
+}
